@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 const HomePage = () => (
     <div className="jumbotron">
-        <h1>KF Collection</h1>
-        <p>Kagabo Fashoin collection store</p>
-        <Link to="about" className="btn btn-primary btn-lg">
+        <h1>K.O.S</h1>
+        <p>Welcome to our online courses</p>
+        <Link to="about" className="btn btn-success btn-lg">
             Learn more
         </Link>
     </div>
