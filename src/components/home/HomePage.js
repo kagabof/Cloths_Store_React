@@ -5,7 +5,7 @@ const HomePage = () => (
     <div className="jumbotron">
         <h1>KF Collection</h1>
         <p>Kagabo Fashoin collection store</p>
-        <Link to="about" className="btn btn-primary btn-lg">
+        <Link to="about" className="btn btn-success btn-lg">
             Learn more
         </Link>
     </div>

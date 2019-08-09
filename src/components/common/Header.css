@@ -1,0 +1,17 @@
+.navs{
+    font-size: 20px;
+    color: green;
+    width: 100%;
+    background-image: linear-gradient(to right, #0d0e0d, #333433, #5a5d5d, #868a8a, #b4b9ba, #b6c0c3, #b8c6cd, #bcccd7, #92aaba, #69899f, #406a84, #074c6a);
+}
+.links{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border-radius:  5px;
+    padding : 0 10px;
+    color: white
+}
+tr{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-image: linear-gradient(to left top, #97a097, #a6b1ab, #b6c2bf, #c8d3d3, #dbe4e6, #dde6e8, #e0e7eb, #e2e9ed, #d4dce1, #c5cfd4, #b7c3c8, #a9b6bc);
+}
